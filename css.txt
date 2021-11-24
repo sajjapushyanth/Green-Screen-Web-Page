@@ -1,0 +1,14 @@
+css
+<*********************************************>
+canvas{
+  height:200px;
+  border:2px solid gray;
+}
+body{
+  background-color:wheat;
+  margin:40px;
+  font-family: Verdana;
+}
+input {
+  font-size: 12pt;
+}
